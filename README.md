@@ -16,3 +16,6 @@ A Motel Owner wants to know where and when to open a Motel and all the pricings 
 
 ## Dashboard
 <img width="797" height="368" alt="DashBoard Image" src="https://github.com/user-attachments/assets/f6d9b7c2-42dd-41cc-aac4-fda2a63d91c7" />
+
+## Final Conclusion
+To improve the sales of the motel owner and their marketing plan of when, where, and what time of the year to put the motels. These graphs show the exact clean data off what would be best for the employers purchases.
