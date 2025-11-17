@@ -13,3 +13,6 @@ A Motel Owner wants to know where and when to open a Motel and all the pricings 
 - The revenue of over the years.
 
 - <a href="https://github.com/thechampionjason-stack/My-Tableu-Project/blob/main/DashBoard%20Image.png"> DashBoard
+
+## Dashboard
+<img width="797" height="368" alt="DashBoard Image" src="https://github.com/user-attachments/assets/f6d9b7c2-42dd-41cc-aac4-fda2a63d91c7" />
